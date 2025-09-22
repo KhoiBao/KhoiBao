@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-PLeased to meet you all, my name is KhoiBao, 3rd year university study in Software Development. 
+Pleased to meet you all, my name is KhoiBao,a 3rd year university student study in Software Development. 
 
 - 🔭 I’m currently working on *secret* personal project so far.
 - 🌱 I’m currently learning ASP.NET development
