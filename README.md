@@ -27,7 +27,7 @@
 |:---:|:---|
 | **Languages** | ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
 | **Backend** |  ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white) ![EF Core](https://img.shields.io/badge/EF%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white) |
-| **Database** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MS SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) |
+| **Database** | [MS SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) |
 | **Social Links** | [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nguyenbaokhoi.work@gmail.com) 
 
 ---
@@ -38,5 +38,5 @@
 | :--- | :--- | :--- |
 | **🏗️ Backend Mastery** | Java, Spring Boot, JWT Auth | `In Progress` |
 | **🧠 Problem Solving** | Data Structures & Algorithms | `Daily Grind` |
-| **🎓 Academic Growth** | Elevating GPA: **2.9 → 3.2** | `On Track` |
+| **🎓 Academic Growth** | Elevating GPA: **2.7 → 3.2** | `On Track` |
 | **🌍 Language** | Aiming **IELTS 7.0** Certification | `On Track` |
