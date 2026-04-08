@@ -40,3 +40,7 @@
 | **🧠 Problem Solving** | Data Structures & Algorithms | `Daily Grind` |
 | **🎓 Academic Growth** | Elevating GPA: **2.7 → 3.2** | `On Track` |
 | **🌍 Language** | Aiming **IELTS 7.0** Certification | `On Track` |
+
+
+---
+### **Projects** 
