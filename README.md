@@ -36,7 +36,7 @@
 
 | Objective | Focus Area | Status |
 | :--- | :--- | :--- |
-| **🏗️ Backend Mastery** | Java, Spring Boot, JWT Auth | `In Progress` |
+| **🏗️ Backend Mastery** | Improving Backend Skills, seeking more tools and frameworks | `In Progress` |
 | **🧠 Problem Solving** | Data Structures & Algorithms | `Daily Grind` |
 | **🎓 Academic Growth** | Elevating GPA: **2.7 → 3.2** | `On Track` |
 | **🌍 Language** | Aiming **IELTS 7.0** Certification | `On Track` |
