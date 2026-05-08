@@ -4,11 +4,16 @@
       <td width="60%" align="left">
         <h2 align=center>Nguyen Bao Khoi (Steven Nguyen)</h2>
         <ul>
-          <li>Passionate Technology Advocate.</li>
+          <li>Passionate in Technologies.</li>
           <li>Working primarily with <strong>C#</strong> and database, <strong>SQL.</strong>
           <li>Collaborative Engineer & Multilingual Communicator.</li>
           <li>Dedicated to Engineering High-Performance Systems.</li>
-          <li>Committed to <strong>Continuous Improvement</strong> & Staying at the Forefront of Emerging Technologies.</li>
+          <li>Committed to <strong>Continuous Improvement</strong> & <strong>Clean-Readable</strong> code base.</li>
+          <li style="list-style: none;">
+          <a href="./SangNguyenTan_CV_BE_Intern.pdf">
+            My CV
+          </a>
+        </li>    
         </ul>
       </td>
       <td width="100%">
