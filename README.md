@@ -10,7 +10,7 @@
           <li>Dedicated to Engineering High-Performance Systems.</li>
           <li>Committed to <strong>Continuous Improvement</strong> & <strong>Clean-Readable</strong> code base.</li>
           <li style="list-style: none;">
-          <a href="./SangNguyenTan_CV_BE_Intern.pdf">
+          <a href="./NGUYEN-BAO-KHOI_CV_BE.pdf">
             My CV
           </a>
         </li>    
